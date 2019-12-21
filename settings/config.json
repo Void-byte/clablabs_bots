@@ -1,0 +1,15 @@
+{
+  "prefix": "!",
+  "groupID": 0000,
+  "bot_token": "token",
+  "rblxUserName": "username",
+  "rblxPassword": "password",
+  "rblxCookie": "cookie",
+  "welcomeMessage": "Hi there, welcome to our official communication hub!",
+  "officerRoleE": "roleName",
+  "maxXP": 0000,
+  "xpAuditLogChannelID": "0000",
+  "mainChatChannelID": "0000",
+  "fireBaseURL": "firebaseURL",
+  "xpName": "xp"
+}
